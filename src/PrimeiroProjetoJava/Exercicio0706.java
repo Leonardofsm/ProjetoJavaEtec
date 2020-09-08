@@ -44,7 +44,6 @@ public class Exercicio0706 {
         
     }
     
-    
     public static double calcAliquota(double num1) {
         double aliquota = 0;
             if(num1 > 0 && num1 <= 965.67) {
